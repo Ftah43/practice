@@ -13,7 +13,3 @@ function compare(obj1, obj2){
     return true;
 
 }
-const obj = { a: 1, b: 2 };
-const source = { a: 1 };
-
-console.log(isMatch(obj, source));
